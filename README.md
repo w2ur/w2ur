@@ -25,11 +25,6 @@ d'applications personnelles sans relire chaque diff. MIT.
 web progressive bilingue et hors-ligne pour organiser une
 bibliothèque personnelle sur un tableau kanban. TypeScript.
 
-**[kibitz](https://github.com/w2ur/kibitz)** — Reconnaissance de
-position d'échecs dans le navigateur. Vous visez un échiquier avec
-votre téléphone, vous obtenez le meilleur coup. Rien ne quitte
-l'appareil.
-
 **[wikimedia-source](https://github.com/w2ur/wikimedia-source)** —
 Recherche d'images sous licence libre sur Wikimedia, avec
 attribution. Sans dépendances.
