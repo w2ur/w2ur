@@ -38,5 +38,4 @@ attribution. Sans dépendances.
 
 - [william.revah.paris](https://william.revah.paris) — mes projets
 - [LinkedIn](https://linkedin.com/in/williamrevah)
-- Ma newsletter : j'écris sur l'IA, le vibe coding et les biais
-  cognitifs. Écrite à la main.
+- [W ou la lettre d'un adulte](https://steady.page/fr/w-ou-la-lettre-dun-adulte/posts) : j'écris sur tout ce qui m'intéresse, lectures, expo, IA, biais cognitifs, etc.. Écrite à la main.
