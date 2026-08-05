@@ -1,6 +1,6 @@
 # William Revah
 
-Head of Digital & Data — Large Customers @ ENGIE. Paris.
+Head of Digital & Data — Large Customers @ ENGIE S&EM. Paris.
 
 Je construis pour comprendre. C'est la seule méthode que je connaisse
 pour savoir ce qu'une technologie change vraiment, plutôt que ce
