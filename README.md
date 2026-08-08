@@ -21,9 +21,17 @@ transactions, un broker distinct valide et exécute. Python.
 Hooks, agents et commandes qui font tourner une dizaine
 d'applications personnelles sans relire chaque diff. MIT.
 
+**[drift](https://github.com/w2ur/drift)** — Un jeu 3D en raymarching
+dans un seul fichier HTML, sous les 200 lignes et sans aucune
+dépendance. [Jouable ici](https://william.revah.paris/drift.html).
+
 **[my-tsundoku](https://github.com/w2ur/my-tsundoku)** — Application
 web progressive bilingue et hors-ligne pour organiser une
 bibliothèque personnelle sur un tableau kanban. TypeScript.
+
+**[french-sentences](https://github.com/w2ur/french-sentences)** —
+Découpage en phrases d'un texte français : abréviations, nombres
+décimaux, dialogues entre guillemets. Sans dépendances.
 
 **[wikimedia-source](https://github.com/w2ur/wikimedia-source)** —
 Recherche d'images sous licence libre sur Wikimedia, avec
@@ -33,4 +41,4 @@ attribution. Sans dépendances.
 
 - [william.revah.paris](https://william.revah.paris) — mes projets
 - [LinkedIn](https://linkedin.com/in/williamrevah)
-- [W ou la lettre d'un adulte](https://steady.page/fr/w-ou-la-lettre-dun-adulte/posts) : j'écris sur tout ce qui m'intéresse, lectures, expo, IA, biais cognitifs, etc.. Écrite à la main.
+- [W ou la lettre d'un adulte](https://steady.page/fr/w-ou-la-lettre-dun-adulte/posts) : j'écris sur tout ce qui m'intéresse, lectures, expo, IA, biais cognitifs, etc. Écrite à la main.
