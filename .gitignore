@@ -1,0 +1,3 @@
+# Per-agent memory and local Claude Code settings — never committed
+.claude/
+.DS_Store
