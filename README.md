@@ -33,9 +33,9 @@ bibliothèque personnelle sur un tableau kanban. TypeScript.
 Découpage en phrases d'un texte français : abréviations, nombres
 décimaux, dialogues entre guillemets. Sans dépendances.
 
-**[wikimedia-source](https://github.com/w2ur/wikimedia-source)** —
-Recherche d'images sous licence libre sur Wikimedia, avec
-attribution. Sans dépendances.
+**[free-image-source](https://github.com/w2ur/free-image-source)** —
+Recherche d'images sous licence libre sur Wikimedia, avec vérification
+de la licence et attribution. Sans dépendances.
 
 ## Ailleurs
 
