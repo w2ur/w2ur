@@ -21,17 +21,32 @@ portefeuilles, en public, tous les jours. Un portefeuille fantôme tiré
 ou chance ? » en question qu'on peut trancher plutôt qu'en sujet de
 conversation. Le moteur est ouvert —
 [midas-core](https://github.com/w2ur/midas-core), MIT.
+[En direct ici](https://midas.revah.paris).
+
+**[Untilt](https://untilt.app)** — Des outils pour penser droit, parce
+que notre cerveau nous ment et qu'il vaut mieux le savoir. Le premier,
+Doxa, passe une décision au crible de 61 biais cognitifs et rend un
+rapport plutôt qu'une note. Les sources sont citées, et vérifiées :
+153 références, dont 138 retrouvées une à une dans Crossref. Le second
+est Elenchus, juste en dessous.
 
 **[Elenchus](https://chromewebstore.google.com/detail/elenchus/bodfmokjnmkkdobfcnfbplnbplgdbfgl)** —
 Extension Chrome qui analyse la qualité du raisonnement d'une page :
 21 types de sophismes, citations exactes à l'appui. Elle ne vérifie
 pas si c'est vrai, seulement si ça tient debout, et la distinction est
 tout l'intérêt. 21 analyses gratuites par jour, sans clé API.
+[Présentation ici](https://elenchus.untilt.app).
 
 **[my-tsundoku](https://github.com/w2ur/my-tsundoku)** — Application
 web bilingue et hors-ligne pour tenir sa pile à lire sur un tableau
 kanban. Un Tsundoku n'est pas une dette, c'est une réserve de
-surprises. TypeScript.
+surprises. TypeScript. [En ligne ici](https://www.my-tsundoku.app).
+
+**[pogofish](https://github.com/w2ur/pogofish)** — Entraîner une IA à
+un jeu de plateau oublié, puis mesurer ce qu'elle vaut vraiment. La
+mesure s'est révélée la partie difficile : la première ne tenait pas,
+il a fallu tout refaire avec des critères posés à l'avance. AlphaZero
+en Rust. [Le récit, et la partie jouable](https://william.revah.paris/stories/pogofish/).
 
 **[drift](https://github.com/w2ur/drift)** — Jeu 3D en raymarching
 dans un seul fichier HTML, sous les 200 lignes et sans aucune
@@ -55,7 +70,9 @@ ne sait pas faire. 35 abréviations, zéro dépendance.
 
 **[claude-code-setup](https://github.com/w2ur/claude-code-setup)** —
 Les hooks, agents et commandes qui font tourner une dizaine
-d'applications personnelles sans que j'aie à relire chaque diff.
+d'applications personnelles. Je ne relis pas chaque diff : des
+garde-fous s'en chargent (relecture automatique, tests, un build qui
+bloque la mise en ligne s'il casse), et je lis ce qu'ils trouvent.
 L'atelier plutôt que le meuble. MIT.
 
 ## Ailleurs
