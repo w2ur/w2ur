@@ -1,6 +1,6 @@
 # William Revah
 
-Head of Digital & Data — Large Customers @ ENGIE S&EM. Paris.
+Responsable Digital & Data Management chez ENGIE Global Markets. Paris.
 
 Je construis pour comprendre. C'est la seule méthode que je connaisse
 pour savoir ce qu'une technologie change vraiment, plutôt que ce
@@ -9,8 +9,8 @@ premier outil professionnel en 2017, et je n'ai jamais été
 développeur. L'IA a levé la contrainte : ce qui prenait des mois
 prend des soirées.
 
-Ici, des projets construits pour de vrai — pas des démonstrations.
-Ils tournent, et quelqu'un s'en sert (parfois moi seul, ce qui reste
+Ici, des projets construits pour de vrai : ils tournent, et quelqu'un
+s'en sert (parfois moi seul, ce qui reste
 un utilisateur difficile à satisfaire).
 
 ## Applications
@@ -25,22 +25,22 @@ conversation. Le moteur est ouvert —
 
 **[Untilt](https://untilt.app)** — Des outils pour penser droit, parce
 que notre cerveau nous ment et qu'il vaut mieux le savoir. Le premier,
-Doxa, passe une décision au crible de 61 biais cognitifs et rend un
-rapport plutôt qu'une note. Les sources sont citées, et vérifiées :
-153 références, dont 138 retrouvées une à une dans Crossref. Le second
+Doxa, passe une décision au crible des biais cognitifs et rend un
+rapport plutôt qu'une note. Les sources sont citées, et cherchées une
+à une dans Crossref. Le second
 est Elenchus, juste en dessous.
 
 **[Elenchus](https://chromewebstore.google.com/detail/elenchus/bodfmokjnmkkdobfcnfbplnbplgdbfgl)** —
-Extension Chrome qui analyse la qualité du raisonnement d'une page :
-21 types de sophismes, citations exactes à l'appui. Elle ne vérifie
+Extension Chrome qui analyse la qualité du raisonnement d'une page et
+en relève les sophismes, citations exactes à l'appui. Elle ne vérifie
 pas si c'est vrai, seulement si ça tient debout, et la distinction est
-tout l'intérêt. 21 analyses gratuites par jour, sans clé API.
+tout l'intérêt. Des analyses gratuites chaque jour, sans clé API.
 [Présentation ici](https://elenchus.untilt.app).
 
 **[my-tsundoku](https://github.com/w2ur/my-tsundoku)** — Application
-web bilingue et hors-ligne pour tenir sa pile à lire sur un tableau
-kanban. Un Tsundoku n'est pas une dette, c'est une réserve de
-surprises. TypeScript. [En ligne ici](https://www.my-tsundoku.app).
+web bilingue et hors ligne pour tenir son Tsundoku sur un tableau
+kanban : la pile de livres qu'on n'a pas encore lus, suivie comme une
+réserve de surprises. TypeScript. [En ligne ici](https://www.my-tsundoku.app).
 
 **[pogofish](https://github.com/w2ur/pogofish)** — Entraîner une IA à
 un jeu de plateau oublié, puis mesurer ce qu'elle vaut vraiment. La
@@ -59,13 +59,13 @@ Trouver sur Wikimedia une image qu'on a réellement le droit de
 republier, avec l'attribution qui va avec. Chercher est la partie
 facile ; la partie difficile est que Wikimedia héberge quantité
 d'images qu'on ne peut pas réutiliser, et qu'elles ne se présentent
-pas comme telles. Six licences en liste blanche, zéro dépendance.
+pas comme telles. Une liste blanche de licences, zéro dépendance.
 `npm i free-image-source`
 
 **[french-sentences](https://www.npmjs.com/package/french-sentences)** —
 Découper un texte français en phrases sans buter sur `M. Dupont`,
 `av. J.-C.` ou un dialogue entre guillemets — ce qu'`Intl.Segmenter`
-ne sait pas faire. 35 abréviations, zéro dépendance.
+ne sait pas faire. Zéro dépendance.
 `npm i french-sentences`
 
 **[claude-code-setup](https://github.com/w2ur/claude-code-setup)** —
